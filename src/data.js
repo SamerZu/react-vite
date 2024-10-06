@@ -30,6 +30,12 @@ export const CORE_CONCEPTS = [
   },
 ];
 
+export const userCard = {
+  name: "Samer",
+  text: "Samer is a professor of Computer Science at the University of Augsburg.",
+  email: "Email Samer",
+};
+
 export const EXAMPLES = {
   components: {
     title: "Components",
